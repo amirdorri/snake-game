@@ -16,12 +16,6 @@ This project aims to showcase best practices in structuring a Compose applicatio
 
 The project structure enforces a clear **Separation of Concerns** across the **Data**, **Domain**, and **Presentation** layers, ensuring the project is scalable, testable, and easy to maintain.
 
-# 🐍 Snake Game - **(Kotlin | Jetpack Compose)**
-
-A modern and minimalist implementation of the classic **Snake Game**, built entirely using the **Kotlin** programming language and Google's declarative UI toolkit, **Jetpack Compose**.
-
-This project aims to showcase best practices in structuring a Compose application, particularly in handling the logic and state management for simple 2D games, while adhering to **Clean Architecture** principles.
-
 ## 🌟 **Key Features**
 
 * **Clean Architecture Inspired:** Clear separation of game logic, data handling, and the user interface.
