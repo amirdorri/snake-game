@@ -16,17 +16,6 @@ This project aims to showcase best practices in structuring a Compose applicatio
 
 The project structure enforces a clear **Separation of Concerns** across the **Data**, **Domain**, and **Presentation** layers, ensuring the project is scalable, testable, and easy to maintain.
 
-## 🌟 **Key Features**
-
-* **Clean Architecture Inspired:** Clear separation of game logic, data handling, and the user interface.
-* **Jetpack Compose:** Fully declarative and modern Android UI development.
-* **MVI/MVVM Pattern:** Optimal state management using a unidirectional data flow for a reactive game experience.
-* **Classic Gameplay:** Accurate implementation of core Snake mechanics (movement, eating, length increase, and game over).
-* **Modular Design:** Logical and maintainable directory structure for scalability.
-
-## 📂 **Project Structure**
-
-The project structure enforces a clear **Separation of Concerns** across the **Data**, **Domain**, and **Presentation** layers, ensuring the project is scalable, testable, and easy to maintain.
 
 ### 💡 **Layer Responsibilities:**
 
